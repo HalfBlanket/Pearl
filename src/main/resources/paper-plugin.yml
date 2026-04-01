@@ -1,0 +1,7 @@
+name: Pearl
+version: '${project.version}'
+main: dev.samar.pearl.Pearl
+description: Personal Kits Plugin
+author: Samar
+api-version: '1.21.11'
+folia-supported: true
