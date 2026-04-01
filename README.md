@@ -21,9 +21,16 @@
 
 ---
 
-## How to edit (For Admins)
+## How to edit kit room (For Admins)
 - Right click on the Kit room
 - Keep items and click on save
+
+---
+
+## How to edit premade kits (For Admins)
+- Right click on the kit you want to edit
+- Click on import (imports inventory)
+- Save
 
 ---
 
